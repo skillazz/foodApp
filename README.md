@@ -1,5 +1,5 @@
 # foodApp
-This is my simple portfolio web application created with React.
+Web application created with React.
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Setup
